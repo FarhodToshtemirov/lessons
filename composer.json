@@ -1,0 +1,12 @@
+{
+    "name": "farhod/lessons",
+    "authors": [
+        {
+            "name": "FarhodToshtemirov",
+            "email": "toshtemirovftb1601@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.41"
+    }
+}
